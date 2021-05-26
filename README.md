@@ -1,4 +1,6 @@
-<img src="src/images/image13.png">
+<p align="center">
+    <img src="src/images/image13.png">
+</p>
 
 # Projeto App Bank.
 
