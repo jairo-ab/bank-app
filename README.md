@@ -1,4 +1,4 @@
-<img src="src/images/Inovatec.png">
+<img src="src/images/image13.png">
 
 # Projeto App Bank.
 
