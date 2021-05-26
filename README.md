@@ -9,7 +9,7 @@ git clone https://github.com/jairo-ab/bank-app.git
 
 cd app-bank
 
-npm install 
+npm install --save
 ```
 
 #### Testando o aplicativo:
