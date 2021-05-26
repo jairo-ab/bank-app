@@ -15,5 +15,9 @@ npm install
 #### Testando o aplicativo:
 
 ```
-npm start
+Android - expo start --android
+
+IOS - expo start --ios
+
+Ambos - expo start
 ```
